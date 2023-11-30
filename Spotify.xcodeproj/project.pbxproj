@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		10C122F42B17B1C200C5C5E9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C122F32B17B1C200C5C5E9 /* AppDelegate.swift */; };
-		10C122F82B17B1C200C5C5E9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C122F72B17B1C200C5C5E9 /* ViewController.swift */; };
+		10C122F82B17B1C200C5C5E9 /* TitlebarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C122F72B17B1C200C5C5E9 /* TitlebarController.swift */; };
 		10C122FD2B17B1C400C5C5E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10C122FC2B17B1C400C5C5E9 /* Assets.xcassets */; };
 		10C123002B17B1C400C5C5E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 10C122FE2B17B1C400C5C5E9 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		10C122F02B17B1C200C5C5E9 /* Spotify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spotify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		10C122F32B17B1C200C5C5E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		10C122F72B17B1C200C5C5E9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		10C122F72B17B1C200C5C5E9 /* TitlebarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitlebarController.swift; sourceTree = "<group>"; };
 		10C122FC2B17B1C400C5C5E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		10C122FF2B17B1C400C5C5E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		10C123012B17B1C400C5C5E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 			children = (
 				10C123072B17B52000C5C5E9 /* Files */,
 				10C122F32B17B1C200C5C5E9 /* AppDelegate.swift */,
-				10C122F72B17B1C200C5C5E9 /* ViewController.swift */,
+				10C122F72B17B1C200C5C5E9 /* TitlebarController.swift */,
 			);
 			path = Spotify;
 			sourceTree = "<group>";
@@ -139,7 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				10C122F82B17B1C200C5C5E9 /* ViewController.swift in Sources */,
+				10C122F82B17B1C200C5C5E9 /* TitlebarController.swift in Sources */,
 				10C122F42B17B1C200C5C5E9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
